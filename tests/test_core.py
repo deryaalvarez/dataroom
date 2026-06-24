@@ -58,3 +58,4 @@ if __name__ == "__main__":
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # clarify the control flow
+# drop an unused branch
